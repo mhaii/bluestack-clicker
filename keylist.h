@@ -94,6 +94,5 @@
 #define F10 0x79
 #define F11 0x7A
 #define F12 0x7B
-}
 
 #endif //BLUESTACK_CLICKER_KEYLIST_H
